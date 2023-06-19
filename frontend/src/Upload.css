@@ -1,0 +1,34 @@
+
+.single-post{
+    /* border-radius: 10px ; */
+    /* border: 2px dotted brown; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+
+}
+.post{
+    justify-content: center;
+    width: 100%;
+    height: fit-content;
+}
+.imagePost{
+    height: 350px;
+    width: 100%;
+}
+.name{
+    margin-left: 5px;
+}
+.time{
+    margin-right: 5px;
+}
+.ProfilePhoto{
+    margin-left: 2px;
+}
+.uploadBtn :hover{
+    background-color: white;
+    color: orange;
+    border: 2px solid orange;
+}
